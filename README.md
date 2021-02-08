@@ -12,7 +12,7 @@
 
 # DESCRIPTION
 
-1.Multi app Library with 2 app's samples 
-2.Library getting data from pastebin using retrofit 
-3.if given permission app's will write data to the phone
-4.app will show entire time useage using thread with Room database
+1)Multi app Library with 2 app's samples 
+2)Library getting data from pastebin using retrofit 
+3)if given permission app's will write data to the phone
+4)app will show entire time useage using thread with Room database
