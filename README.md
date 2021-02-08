@@ -11,6 +11,8 @@
 
 
 # DESCRIPTION
-1.Calendar Widget Library using SQLiteDBHandler to remember its history useage.
 
-2.Calendar Widget Library can be installed as a widget on any anroid phone.
+1.Multi app Library with 2 app's samples 
+2.Library getting data from pastebin using retrofit 
+3.if given permission app's will write data to the phone
+4.app will show entire time useage using thread with Room database
