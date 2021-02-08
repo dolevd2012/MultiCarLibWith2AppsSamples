@@ -48,4 +48,11 @@ dependencies {
 }
 ```
 
+## USEAGE
+```
+FOR MORE INFORMATION CHECK UP THE ACTIVITY SAMPLE
+If you want to create your own activity follow those steps:
+1)On your main Activity change the AppCompatActivity to Activity_CarParent
+2)make sure you delete your layout since the main layout isnt yours but the CalendarActivity Layout
+```
 
